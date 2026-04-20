@@ -1,1 +1,1 @@
-asdad
+https://gemini.google.com/app/6e3dcafe9809006c?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=23023414278&gbraid=0AAAAApk5BhmzihdPaWMJzGVBmrKLnQEnC&gclid=CjwKCAjwnZfPBhAGEiwAzg-VzPSbZEEkk57-eHXNOKDKoBQ75G9vTQLQn64YGOfh-QEzy5CMiiEj2hoCdC8QAvD_BwE
